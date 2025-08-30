@@ -2,7 +2,7 @@
 Heart Disease Dataset using Machine Learning
 
 Project Overview:
-This project focuses on predicting the likelihood of heart disease using Machine Learning techniques.
+Developed a simple heart diseases project using python and pandas. Collected patient health data (age, blood pressure). Implemented a basic rule-based prediction system to simply classify whether a patient us at risk of heart diseases.
 
 Technologies Used:
 •	Python 🐍
